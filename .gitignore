@@ -1,0 +1,43 @@
+# Environment variables and local secrets
+.env
+.env.github
+.env.*
+!.env.example
+!.env.sample
+
+# Private keys and credential bundles
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+**/.ssh/*
+
+# Secret or credential files
+*secret*
+*secrets*
+*credential*
+*credentials*
+*token*
+*apikey*
+*api_key*
+
+# Personal or sensitive information files
+*personal*
+*private*
+*pii*
+*privacy*
+*개인정보*
+*민감정보*
+*주민등록*
+
+# Local OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
