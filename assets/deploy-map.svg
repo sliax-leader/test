@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">Deployment map</title>
+  <desc id="desc">A repository flowing through Vercel to global edge nodes.</desc>
+  <rect width="720" height="560" fill="#ffffff"/>
+  <path d="M0 418h720v142H0z" fill="#f3f6f0"/>
+  <path d="M86 132h182c17.7 0 32 14.3 32 32v188c0 17.7-14.3 32-32 32H86c-17.7 0-32-14.3-32-32V164c0-17.7 14.3-32 32-32z" fill="#f8faf6" stroke="#d9e1e8" stroke-width="3"/>
+  <path d="M452 104h138c42 0 76 34 76 76v156c0 42-34 76-76 76H452c-42 0-76-34-76-76V180c0-42 34-76 76-76z" fill="#18212f"/>
+  <path d="M521 172l93 164H428l93-164z" fill="#ffffff"/>
+  <path d="M300 258h76" stroke="#177f78" stroke-width="8" stroke-linecap="round"/>
+  <path d="M346 224l38 34-38 34" fill="none" stroke="#177f78" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="112" cy="190" r="20" fill="#177f78"/>
+  <circle cx="112" cy="258" r="20" fill="#c97a16"/>
+  <circle cx="112" cy="326" r="20" fill="#a83c63"/>
+  <path d="M154 190h94M154 258h94M154 326h94" stroke="#243b55" stroke-width="12" stroke-linecap="round"/>
+  <path d="M106 448c90-35 180-34 270 0s180 35 270 0" fill="none" stroke="#d9e1e8" stroke-width="4"/>
+  <circle cx="148" cy="454" r="26" fill="#177f78"/>
+  <circle cx="360" cy="454" r="26" fill="#c97a16"/>
+  <circle cx="572" cy="454" r="26" fill="#a83c63"/>
+  <path d="M148 428v-34M360 428v-34M572 428v-34" stroke="#243b55" stroke-width="5" stroke-linecap="round"/>
+  <path d="M464 412c-30 38-63 57-104 57s-74-19-104-57" fill="none" stroke="#177f78" stroke-width="5" stroke-linecap="round" stroke-dasharray="8 14"/>
+</svg>
